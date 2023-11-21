@@ -1,0 +1,13 @@
+matplotlib==3.7.2
+mmcv-full==1.6.1
+# -e git+https://github.com/open-mmlab/mmsegmentation.git@356215bf586b1404d4cb0c205685fcf589df6148#egg=mmsegmentation
+numpy==1.24.3
+opencv-python==4.8.0.76
+openmim==0.3.9
+pandas==2.0.2
+Pillow==9.5.0
+protobuf==3.18.3
+scipy==1.10.1
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.65.0

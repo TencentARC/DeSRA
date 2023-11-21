@@ -1,0 +1,150 @@
+airplane--1
+animal--3
+apparel--1
+arcade machine--1
+armchair--0
+ashcan--2
+awning--2
+bag--1
+ball--0
+bannister--1
+bar--0
+barrel--1
+base--4
+basket--2
+bathtub--0
+bed--0
+bench--0
+bicycle--1
+blanket--1
+blind--1
+boat--2
+book--4
+bookcase--1
+booth--0
+bottle--1
+box--1
+bridge--4
+buffet--4
+building--4
+bulletin board--11
+bus--0
+cabinet--3
+canopy--0
+car--1
+case--0
+ceiling--2
+chair--3
+chandelier--6
+chest of drawers--0
+clock--1
+coffee table--1
+column--2
+computer--6
+conveyer belt--3
+counter--0
+countertop--0
+cradle--2
+crt screen--1
+curtain--0
+cushion--0
+desk--0
+dirt track--4
+dishwasher--4
+door--0
+earth--3
+escalator--0
+fan--0
+fence--1
+field--8
+fireplace--5
+flag--0
+floor--1
+flower--1
+food--1
+fountain--2
+glass--2
+grandstand--5
+grass--5
+hill--5
+hood--5
+house--7
+hovel--4
+kitchen island--4
+lake--0
+lamp--1
+land--2
+light--1
+microwave--1
+minibike--1
+mirror--0
+monitor--0
+mountain--5
+ottoman--0
+oven--0
+painting--6
+palm--4
+path--5
+person--1
+pier--2
+pillow--2
+plant--3
+plate--0
+plaything--4
+pole--2
+pool table--2
+poster--2
+pot--0
+radiator--0
+railing--3
+refrigerator--3
+river--1
+road--3
+rock--2
+rug--0
+runway--0
+sand--1
+sconce--0
+screen door--0
+screen--0
+sculpture--2
+sea--7
+seat--0
+shelf--1
+ship--3
+shower--2
+sidewalk--3
+signboard--2
+sink--1
+sky--0
+skyscraper--7
+sofa--2
+stage--7
+stairs--3
+stairway--2
+step--1
+stool--1
+stove--4
+streetlight--2
+swimming pool--4
+swivel chair--0
+table--1
+tank--2
+television receiver--2
+tent--1
+toilet--1
+towel--1
+tower--9
+trade name--2
+traffic light--1
+tray--0
+tree--5
+truck--1
+van--1
+vase--1
+wall--1
+wardrobe--0
+washer--1
+water--1
+waterfall--1
+windowpane--1
