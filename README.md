@@ -65,10 +65,10 @@ dataset. You can download from [GoogleDrive](<https://drive.google.com/drive/fol
 
 ## ⚔️ Quick Inference
 
-1. Detect the artifacts between the MSE-SR results and GAN-SR results. We store many intermediate results and the final detected binary artifact map are stored in *Final_Artifact_Map* folder.
+1. Detect the artifacts between the MSE-SR results and GAN-SR results. We store many intermediate results and the final detected binary artifact map are stored in *Final_Artifact_Map* folder. The config file and checkpoint of [SegFormer](<https://github.com/open-mmlab/mmsegmentation/tree/main/configs/segformer>) can be found in the mmsegmentation package.
 
     ```bash
-    python demo/artifact_detection.py --mse_root="./LDL/MSE_types" --gan_root="./LDL/GAN_types" --save_root="./results/LDL/DeSRA"
+    python demo/artifact_detection.py --mse_root="./LDL/MSE-SR" --gan_root="./LDL/GAN-SR" --save_root="./results/LDL/DeSRA-Mask"
     ```
 
 2. Evaluate the performance. As mentioned in our paper, we provide three scripts to calculate **IOU**, **Precision** and **Recall**, respectively. You can find these scripts in *metrics* folder.

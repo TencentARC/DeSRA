@@ -6,7 +6,7 @@ import numpy as np
 import torch
 from scipy import ndimage
 
-from scripts.distance import calc_artifact_map
+from distance import calc_artifact_map
 from mmseg.apis import inference_segmentor, init_segmentor, show_seg
 from mmseg.core.evaluation import get_palette
 
