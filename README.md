@@ -33,9 +33,9 @@ images to eliminate the same kinds of artifacts, which bridges the gap of applyi
 - Option: NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
 - Option: Linux
 
-### Installation
+### Installation (The version of mmsegmentation utilized in this project is 0.29.0.)
 
-1. Install [mmsegmentation](<https://github.com/open-mmlab/mmsegmentation>) package and install dependent packages. **Note**: The version of mmsegmentation and mmcv-full that used in the experiment are <span style="color:red">0.29.0</span> and <span style="color:red">1.6.1</span>, respectively. Setting up the environment might take some time.
+1. Install [mmsegmentation](<https://github.com/open-mmlab/mmsegmentation>) package and install dependent packages. **Note**: The version of mmsegmentation and mmcv-full that used in the experiment are <b>0.29.0</b> and <b>1.6.1</b>, respectively. Setting up the environment might take some time.
 
     ```bash
     git clone https://github.com/open-mmlab/mmsegmentation.git
